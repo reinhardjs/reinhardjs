@@ -11,7 +11,7 @@
 -->
 
 - 🔭 I’m currently focusing on learning Android Development
-- 🌱 and learn how to create a clean and good code
+- 🌱 and learn how to create a good code
 - 📫 How to reach me:
 reinhardjsilalahi@gmail.com
 
