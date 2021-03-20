@@ -10,7 +10,7 @@
 - 💬 Ask me about Android Development
 -->
 
-- 🔭 I’m currently focusing on learning Android Development
+- 🔭 I’m currently focusing on Android Development
 - 🌱 and learn how to create a good code
 - 📫 How to reach me:
 reinhardjsilalahi@gmail.com
