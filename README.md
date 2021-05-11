@@ -15,7 +15,9 @@
 - 📫 How to reach me:
 
 Email : reinhardjsilalahi@gmail.com
+
 Linkedin : https://id.linkedin.com/in/reinhardjsilalahi
+
 Portofolio : reinhardjs.github.com
 
 #### Interested in learning Android Development? 😄
