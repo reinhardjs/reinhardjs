@@ -13,9 +13,9 @@
 - 🔭 I’m currently focusing on Android Development
 - 🌱 and still learning on writing elegant code
 - 📫 How to reach me:
-reinhardjsilalahi@gmail.com
-
-https://id.linkedin.com/in/reinhardjsilalahi
+Email : reinhardjsilalahi@gmail.com
+Linkedin : https://id.linkedin.com/in/reinhardjsilalahi
+Portofolio : reinhardjs.github.com
 
 #### Interested in learning Android Development? 😄
 Checkout my blog : https://medium.com/@reinhardjsilalahi
