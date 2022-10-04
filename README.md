@@ -1,5 +1,7 @@
+<!--
 ![Reinhard's github stats](https://github-readme-stats.vercel.app/api?username=reinhardjs&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinhardjs&layout=compact)](https://github.com/reinhardjs/README.md)
+-->
 
 ### Hi there 👋
 <!--
