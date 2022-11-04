@@ -13,7 +13,7 @@
 -->
 
 - 🔭 I’m currently focusing on Android Development
-- 🌱 and still learning on writing elegant code
+- 🌱 and keep learning on how to write elegant code
 - 📫 How to reach me:
 
 Email : reinhardjsilalahi@gmail.com
@@ -22,8 +22,8 @@ Linkedin : https://id.linkedin.com/in/reinhardjsilalahi
 
 Portofolio : https://reinhardjs.github.io
 
-#### Interested in learning Android Development? 😄
-Checkout my blog : https://medium.com/@reinhardjsilalahi
+#### Have an interest to learn Android Dev more? 😄
+Go checkout my blog : https://medium.com/@reinhardjsilalahi
 
 <!--
 - 😄 Pronouns: ...
