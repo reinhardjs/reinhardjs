@@ -20,7 +20,7 @@ Email : reinhardjsilalahi@gmail.com
 
 Linkedin : https://id.linkedin.com/in/reinhardjsilalahi
 
-Portofolio : https://reinhardjs.github.io
+Portofolio : https://reinhardjs.github.io/portofolio
 
 #### Have an interest to learn Android Dev more? 😄
 Go checkout my blog : https://medium.com/@reinhardjsilalahi
