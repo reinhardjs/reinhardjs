@@ -12,18 +12,14 @@
 - 💬 Ask me about Android Development
 -->
 
-- 🔭 I’m currently focusing on Android Development
-- 🌱 and keep learning on how to write elegant code
+- 🔭 I’m currently focusing on Backend Software Development
+- 🌱 and always learning on how to write a good code
 - 📫 How to reach me:
 
 Email : reinhardjsilalahi@gmail.com
-
 Linkedin : https://id.linkedin.com/in/reinhardjsilalahi
-
 Portofolio : https://reinhardjs.github.io/portofolio
-
-#### Have an interest to learn Android Dev more? 😄
-Go checkout my blog : https://medium.com/@reinhardjsilalahi
+Medium : https://medium.com/@reinhardjsilalahi
 
 <!--
 - 😄 Pronouns: ...
