@@ -17,8 +17,11 @@
 - 📫 How to reach me:
 
 Email : reinhardjsilalahi@gmail.com
+
 Linkedin : https://id.linkedin.com/in/reinhardjsilalahi
+
 Portofolio : https://reinhardjs.github.io/portofolio
+
 Medium : https://medium.com/@reinhardjsilalahi
 
 <!--
