@@ -22,7 +22,7 @@ Linkedin : https://id.linkedin.com/in/reinhardjsilalahi
 
 Portofolio : https://reinhardjs.github.io/portofolio
 
-Medium : https://medium.com/@reinhardjsilalahi
+Medium : [https://medium.com/@reinhardjsilalahi](https://reinhardjsilalahi.medium.com)
 
 <!--
 - 😄 Pronouns: ...
