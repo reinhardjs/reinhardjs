@@ -16,13 +16,11 @@
 - 🌱 and always learning on how to write a good code
 - 📫 How to reach me:
 
-Website/Blog : https://reinhardjs.my.id
+Personal website : https://reinhardjs.my.id
 
 Email : reinhardjsilalahi@gmail.com
 
 Linkedin : https://id.linkedin.com/in/reinhardjsilalahi
-
-Portofolio : https://reinhardjs.github.io/portofolio
 
 Medium : https://reinhardjsilalahi.medium.com
 
