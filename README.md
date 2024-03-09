@@ -14,7 +14,6 @@
 
 - 🔭 I’m currently focusing on Backend Development
 - 🌱 and always learning on how to write a solid code
-- 📫 How to reach me:
 
 More links:
 https://linktr.ee/reinhardjs
