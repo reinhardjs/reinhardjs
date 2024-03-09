@@ -16,13 +16,8 @@
 - 🌱 and always learning on how to write a solid code
 - 📫 How to reach me:
 
-Personal website : https://reinhardjs.my.id
-
-Email : reinhardjsilalahi@gmail.com
-
-Linkedin : https://id.linkedin.com/in/reinhardjsilalahi
-
-Medium : https://reinhardjsilalahi.medium.com
+More links:
+https://linktr.ee/reinhardjs
 
 <!--
 - 😄 Pronouns: ...
