@@ -13,7 +13,7 @@
 -->
 
 - 🔭 I’m currently focusing on Backend Development
-- 🌱 and always learning on how to write a good code
+- 🌱 and always learning on how to write a solid code
 - 📫 How to reach me:
 
 Personal website : https://reinhardjs.my.id
