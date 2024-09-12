@@ -12,7 +12,7 @@
 - 💬 Ask me about Android Development
 -->
 
-- 🔭 I’m currently focusing on Backend Development
+- 🔭 I’m currently focusing on Software and Machine Learning Engineering
 - 🌱 and always learning on how to write a solid code
 
 Links:
