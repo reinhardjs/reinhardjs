@@ -18,6 +18,9 @@
 Links:
 https://linktr.ee/reinhardjs
 
+My Website:
+https://reinhardjs.my.id
+
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
