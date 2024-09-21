@@ -15,9 +15,6 @@
 - 🔭 I’m currently focusing on Software and ML Engineering
 - 🌱 and always learning on how to write a solid code
 
-Links:
-https://linktr.ee/reinhardjs
-
 My Website:
 https://reinhardjs.my.id
 
