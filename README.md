@@ -16,7 +16,7 @@
 - 🌱 and always learning on how to write a solid code
 
 My Website:
-https://reinhardjs.my.id
+https://reinhardjs.com
 
 <!--
 - 😄 Pronouns: ...
